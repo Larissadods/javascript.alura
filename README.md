@@ -1,2 +1,2 @@
-# javascript.alura
-Atividade elaborada no curso JavaScript: explorando a linguagem, da plataforma da Alura.
+# JavaScript: explorando a linguagem
+Atividade elaborada no curso da plataforma Alura.
